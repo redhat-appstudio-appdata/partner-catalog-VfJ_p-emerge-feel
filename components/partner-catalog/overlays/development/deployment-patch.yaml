@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/asaran-tenant/partner-catalog/partner-catalog@sha256:ba5c27b6d445eb64f6c97ae178f8bb06422bd4f91dec755bf062eb1636430059
+      - image: quay.io/redhat-user-workloads/asaran-tenant/partner-catalog/partner-catalog@sha256:2c722cadbd81f11b78ca4dac08ec1d2fd20910b378a18703d85e7a794aaa074f
         name: my-java-springboot
         resources: {}
 status: {}
